@@ -1,0 +1,11 @@
+.statisticsList {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.statisticsInfo {
+  font-size: 18px;
+  font-weight: 500;
+}
